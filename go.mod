@@ -1,3 +1,3 @@
-module github.com/Ivan-Chepurin/fsm
+module github.com/ivan-chepurin/fsm
 
 go 1.22.1
